@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Chinese | English
+- Gamer
+- Writer
+- Coder
+
 ![](https://github-readme-stats.vercel.app/api?username=lingsamuel&show_icons=true)
 
 <!--
