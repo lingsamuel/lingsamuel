@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- Chinese | English
-- Gamer
-- Writer
-- Coder
+- Languages: Chinese | English
+- Gamer, Writer, Coder
+
+Be neutral, objective and rational.
 
 ![](https://github-readme-stats.vercel.app/api?username=lingsamuel&show_icons=true)
 
