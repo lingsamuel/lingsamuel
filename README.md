@@ -5,7 +5,7 @@
 
 Be neutral, objective and rational.
 
-Love the world, tech leads humankind.
+Love the world, keep the enthusiasm. Tech leads humankind, embrace a new land.
 
 ![](https://github-readme-stats.vercel.app/api?username=lingsamuel&show_icons=true)
 
