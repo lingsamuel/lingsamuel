@@ -7,6 +7,8 @@ Be neutral, objective and rational.
 
 Love the world, keep the enthusiasm. Tech leads humankind, embrace a new land.
 
+Only GPG signed commits are mine.
+
 ![](https://github-readme-stats.vercel.app/api?username=lingsamuel&show_icons=true)
 
 <!--
