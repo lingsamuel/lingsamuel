@@ -2,6 +2,7 @@
 
 - Languages: Chinese | English
 - Gamer, Writer, Coder
+- I’m currently learning the world
 
 Be neutral, objective and rational.
 
