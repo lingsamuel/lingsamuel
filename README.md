@@ -4,6 +4,7 @@
 - Gamer, Writer, Coder
 - I’m currently learning the world
 - Active Timezone: 12:00 AM - 12:00 PM (Asia/Shanghai, UTC+8) | 4:00 PM - 4:00 AM (UTC)
+- Slack member ID: U01G6SGJQTA and U01AM9FS5GQ
 
 Be neutral, objective and rational.
 
