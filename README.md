@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Languages: Chinese | English
-- Gamer, Writer, Coder
+- Gamer, Writer, Coder, Novice Painter
 - I’m learning the world
 - Active Timezone: 12:00 AM - 12:00 PM (Asia/Shanghai, UTC+8) | 4:00 PM - 4:00 AM (UTC)
 - Slack member ID: U01G6SGJQTA and U01AM9FS5GQ
