@@ -17,6 +17,10 @@ Only GPG signed commits are mine.
 
 ![](https://github-readme-stats.vercel.app/api?username=lingsamuel&show_icons=true)
 
+---
+
+![Total Visitors](https://visitor-badge.glitch.me/badge?page_id=lingsamuel.lingsamuel)
+
 <!--
 **lingsamuel/lingsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
