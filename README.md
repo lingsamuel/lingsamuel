@@ -3,7 +3,7 @@
 - Languages: Chinese | English
 - Gamer, Writer, Coder, Novice Painter
 - I’m learning the world
-- Active Timezone: 12:00 AM - 12:00 PM (Asia/Shanghai, UTC+8) | 4:00 PM - 4:00 AM (UTC)
+- Active Timezone: 12:00 - 23:00 (Asia/Shanghai, UTC+8) | 4:00 - 15:00 (UTC)
 - Slack member ID: U01G6SGJQTA and U01AM9FS5GQ
 - Currently working on:
   - Kubernetes
