@@ -19,8 +19,8 @@ Only GPG signed commits are mine.
 
 ---
 
-Render quotes correctly: [FuHsi.js](https://github.com/lingsamuel/FuHsi.js)
-Kubectl aliases generator: [kubectl life saver](https://github.com/lingsamuel/kubectl-life-saver)
+- Render quotes correctly: [FuHsi.js](https://github.com/lingsamuel/FuHsi.js)
+- Kubectl aliases generator: [kubectl life saver](https://github.com/lingsamuel/kubectl-life-saver)
 
 ---
 
