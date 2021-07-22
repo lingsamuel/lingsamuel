@@ -8,6 +8,7 @@
 - Currently working on:
   - Kubernetes
   - Minikube
+  - APISIX related
 
 Be neutral, objective and rational.
 
