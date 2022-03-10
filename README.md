@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I don't have enough time for everything, there are so many things I want to do and learn.
+
 - Languages: Chinese | English
 - Gamer/Game Designer, Writer, Coder/Open Source Contributor, Novice Painter
 - I’m learning the world
