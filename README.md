@@ -6,6 +6,7 @@ I don't have enough time for everything, there are so many things I want to do a
 - Gamer/Game Designer, Writer, Coder/Open Source Contributor, Novice Painter
 - I’m learning the world
 - Active Timezone: 12:00 - 23:00 (Asia/Shanghai, UTC+8) | 4:00 - 15:00 (UTC)
+- Reverse engineering and modding for Elden Ring and Monster Hunter.
 - Currently working on:
   - Kubernetes (Slack member ID: U01G6SGJQTA and U01AM9FS5GQ)
   - Minikube
